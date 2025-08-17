@@ -1,10 +1,10 @@
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   line-height: 1.6;
   background: #0c0d0d;
-  ;
   color: hsl(0, 22%, 96%);
 }
 
@@ -45,3 +45,9 @@ footer {
   padding: 10px;
 }
 
+/* All Paragraphs */
+p {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.6;
+}
